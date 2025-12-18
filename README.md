@@ -17,5 +17,5 @@ This code is for the Design News CEC Getting in Tiny ML With Arduino. Webinar da
   3. Select Sketch > Include library > Add .ZIP Library from the Arduino IDE menus.
   4. Select the downloaded file.
   5. Click the Open button.
-In addition to the installation direction, add the appropriate sensor libraries to insure the code is in alignment with the Arduino Nano 33 BLE Sense revision 2 board. The old sensors should be removed from the "include" statements and replaced with the newly installed Nano 33 BLE Sense board sensors.
+In addition to the installation directions, add the appropriate sensor libraries to insure the code is in alignment with the Arduino Nano 33 BLE Sense revision 2 board. The old sensors should be removed from the "include" statements and replaced with the newly installed Nano 33 BLE Sense board sensors header files ".h".
 Run the code examples provided in the .zipped Days folder for proper compilation results.

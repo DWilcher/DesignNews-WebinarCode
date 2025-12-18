@@ -10,7 +10,7 @@ This code is for the Design News CEC Modeling Robot Kinematics using Python and 
 
 This code is for the Design News CEC Exploring Smart AI Lens with the Micro:bit. Webinar dates: September 22-26, 2025. The code is for the Elecfreaks Smart AI Lens with the Micro:bit and exploring various detection models. The code posted is in Blockly Code hex and MicroPython formats. The course materials provides information on building the Smart AI lens applications using the two programming methods.
 
-This code is for the Design News CEC Getting in Tiny ML With Arduino. Webinar dates: December 15-19, 2025. The code is for the 5 lab projects exploring various TensorFlow and Tiny ML models. The code posted is in C++ and Python formats. The course materials provides information on executing the Tiny ML and TensorFlow applications using the two programming methods. Use the following steps intstall the TensorFlow Lite folder with the examples on to your development machine.
+This code is for the Design News CEC Getting in Tiny ML With Arduino. Webinar dates: December 15-19, 2025. The code is for the 5 lab projects exploring various TensorFlow and Tiny ML models. The code posted is in C++ and Python formats. The course materials provides information on executing the Tiny ML and TensorFlow applications using the two programming methods. Use the following steps to intstall the TensorFlow Lite folder with the examples on to your development machine.
   1. Go to the following link to download the version of the library the tutorial's sketches were written for:
      https://downloads.arduino.cc/libraries/github.com/bcmi-labs/Arduino_TensorFlowLite-2.4.0-ALPHA.zip
   2. Wait for the download to finish.
